@@ -1,4 +1,3 @@
-#include <mcp_can.h>
 #include <SPI.h>
 #include "mcp2515_can.h"
 mcp2515_can CAN(10);                                    // Set CS to pin 10
